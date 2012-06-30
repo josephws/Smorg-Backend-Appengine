@@ -1,10 +1,10 @@
 package com.smorg.backend;
 
 import com.google.appengine.api.datastore.Key;
-import java.util.Date;
+//import java.util.Date;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
+//import javax.persistence.GeneratedValue;
+//import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity(name = "smUser") //Name of the entity
