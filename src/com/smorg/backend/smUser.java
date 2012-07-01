@@ -33,7 +33,7 @@ public class smUser {
 	        this.goal = goal;
 	    } 
 
-	    //Set-Get User's Tasks
+	    //Set-Get User's Tarks
 	    public String gettask() {
 	        return task;
 	    } 
